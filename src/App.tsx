@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import './index.css'
+import bildUrl from './assets/Bild.jpg'
 
 const skills = [
   {
@@ -258,7 +259,7 @@ function HeroPhoto() {
       onMouseMove={handleMouseMove}
       onMouseLeave={handleMouseLeave}
     >
-      <img src="/Bild.jpg" alt="Tarek Tastan" className="hero-photo" />
+      <img src={bildUrl} alt="Tarek Tastan" className="hero-photo" />
     </div>
   )
 }
