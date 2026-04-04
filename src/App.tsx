@@ -140,16 +140,13 @@ export default function App() {
           <h2 className="section-title">Warum Everlast — und warum jetzt.</h2>
           <div className="section-body">
             <p>
-              KI-Beratung gibt es viele. Firmen, die KI-Agenten und Automatisierungen wirklich in bestehende Unternehmensprozesse implementieren — die sind selten. Everlast macht genau das. Und das ist der Unterschied, der für mich zählt.
+              Viele beschäftigen sich aktuell mit KI. Spannend wird es aber erst dann, wenn daraus echte Systeme, sinnvolle Automatisierungen und konkrete Ergebnisse für Unternehmen entstehen. Genau deshalb finde ich Everlast interessant.
             </p>
             <p>
-              Ich beschäftige mich nicht theoretisch mit KI. Ich arbeite täglich damit: baue Workflows, teste Tools, denke in Anwendungsfällen. Konkret kann ich KI-Projekte für Kunden eigenständig umsetzen — von der ersten Idee bis zum fertigen System. KI-Agenten, Conversational AI, automatisierte Prozesse: das ist nicht Neuland für mich, das ist mein Alltag.
+              Ich beschäftige mich nicht nur oberflächlich mit KI, sondern setze mich aktiv mit Tools, Workflows, Automatisierung und praktischen Einsatzmöglichkeiten auseinander. Mich reizt vor allem die Schnittstelle aus Technologie, Struktur und echter Umsetzung — also genau dort, wo KI im Unternehmensalltag wirklich relevant wird.
             </p>
             <p>
-              Genauso wichtig: Ich kann Kunden zu KI-Strategien und AI-Tools beraten und praxisnahe Schulungen durchführen, die echte Kompetenz aufbauen — kein Buzzword-Bingo, sondern konkretes Handwerk.
-            </p>
-            <p>
-              Zum Timing: Ich ziehe mein Praxissemester gezielt vor, weil ich danach ein Auslandssemester in Hanoi, Vietnam plane. Das bedeutet: Ich bin jetzt verfügbar — mit klarem Zeitfenster, vollem Einsatz und dem Fokus, in diesen sechs Monaten wirklich etwas beizutragen.
+              Mein Praxissemester ziehe ich bewusst vor, weil ich im Anschluss ein Auslandssemester in Hanoi, Vietnam plane. Das heißt: Ich bin jetzt gezielt auf der Suche nach einem Umfeld, in dem ich in 6 Monaten viel lernen, schnell Verantwortung übernehmen und echten Mehrwert leisten kann.
             </p>
           </div>
           <div className="quote-box">
