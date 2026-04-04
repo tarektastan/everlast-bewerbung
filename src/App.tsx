@@ -114,7 +114,7 @@ export default function App() {
               <em>{displayed}<span className={`cursor${done ? ' cursor-hide' : ''}`}>|</span></em>
             </h1>
             <p className="hero-sub">
-              Ich bin Tarek Tastan, Produktmanagement-Student an der HfWU — und ich bewerbe mich nicht, weil ich einen Praktikumsplatz suche, sondern weil Everlast genau das Umfeld ist, in dem ich wirklich etwas bewegen kann.
+              Ich bin Tarek Tastan, Produktmanagement-Student an der HfWU. Für mein Pflichtpraktikum bewerbe ich mich bewusst bei Everlast — denn hier ist das Umfeld, in dem ich wirklich etwas bewegen kann.
             </p>
             <div className="hero-actions">
               <a href="#kontakt" className="btn-primary">
@@ -148,6 +148,9 @@ export default function App() {
             <p>
               Genauso wichtig: Ich kann Kunden zu KI-Strategien und AI-Tools beraten und praxisnahe Schulungen durchführen, die echte Kompetenz aufbauen — kein Buzzword-Bingo, sondern konkretes Handwerk.
             </p>
+            <p>
+              Zum Timing: Ich ziehe mein Praxissemester gezielt vor, weil ich danach ein Auslandssemester in Hanoi, Vietnam plane. Das bedeutet: Ich bin jetzt verfügbar — mit klarem Zeitfenster, vollem Einsatz und dem Fokus, in diesen sechs Monaten wirklich etwas beizutragen.
+            </p>
           </div>
           <div className="quote-box">
             <strong>Was ich mitbringe, das ihr braucht:</strong> Ich denke produktgetrieben, kommuniziere technische Konzepte klar — für technische Teams genauso wie für Kunden am Anfang ihrer KI-Reise. Das ist keine Selbstbeschreibung — das ist der Grund, warum ich diese Website mit Claude Code gebaut habe, statt eine Word-Vorlage auszufüllen.
@@ -176,10 +179,10 @@ export default function App() {
           <h2 className="section-title">Wer ich bin — jenseits des Lebenslaufs.</h2>
           <div className="section-body">
             <p>
-              Ich bin 21 und studiere Produktmanagement an der HfWU in Geislingen. Was mich antreibt, ist weniger die Theorie als das, was dabei rauskommt: Systeme, die wirklich funktionieren, Prozesse, die sich verändern, Menschen, die etwas verstehen, was sie vorher nicht konnten.
+              Ich sitze selten still. Sport gehört fest zu meinem Alltag — Laufen, Gym, am liebsten draußen. Wenn ich nicht am Rechner bin, bin ich vermutlich in der Küche: Ich koche gerne, probiere neue Rezepte aus und esse noch lieber mit anderen zusammen.
             </p>
             <p>
-              Ich plane ein Auslandssemester in Hanoi, Vietnam — und bin deshalb gerade aktiv auf der Suche nach einem Praxisunternehmen. Vietnam ist für mich kein Urlaub, sondern eine bewusste Entscheidung: Ich möchte meine Englischkenntnisse in einem internationalen Umfeld ausbauen, neue Perspektiven aufnehmen und mich als Person weiterentwickeln. Ich bin generell offen für Neues, gehe auf Menschen zu und fühle mich in unbekannten Situationen nicht unwohl — eher im Gegenteil.
+              Ich gehe schnell auf Menschen zu, bin neugierig auf Geschichten und fühle mich in neuen Umgebungen schnell wohl. Neue Situationen machen mir keine Angst — sie machen mich neugierig. Das gilt für fremde Städte genauso wie für Gespräche mit Menschen, die ich gerade erst kennengelernt habe.
             </p>
           </div>
           <div className="chips">

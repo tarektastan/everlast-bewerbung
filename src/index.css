@@ -5,17 +5,17 @@
 }
 
 :root {
-  --bg: #08080e;
-  --surface: #0f0f18;
-  --surface-2: #14141f;
-  --border: #1c1c2e;
-  --border-hover: #2a2a40;
-  --accent: #6366f1;
-  --accent-dim: rgba(99, 102, 241, 0.12);
-  --accent-border: rgba(99, 102, 241, 0.35);
-  --text: #e2e2ee;
-  --muted: #636380;
-  --muted-2: #4a4a60;
+  --bg: #000000;
+  --surface: #0a0a0a;
+  --surface-2: #111111;
+  --border: #1a1a1a;
+  --border-hover: #2a2a2a;
+  --accent: #faef70;
+  --accent-dim: rgba(250, 239, 112, 0.08);
+  --accent-border: rgba(250, 239, 112, 0.35);
+  --text: #ffffff;
+  --muted: #848484;
+  --muted-2: #555555;
 }
 
 html {
@@ -155,7 +155,7 @@ section {
   transform: translateX(-50%);
   width: 700px;
   height: 700px;
-  background: radial-gradient(circle, rgba(99, 102, 241, 0.07) 0%, transparent 65%);
+  background: radial-gradient(circle, rgba(250, 239, 112, 0.05) 0%, transparent 65%);
   pointer-events: none;
 }
 
@@ -257,7 +257,7 @@ section {
   align-items: center;
   gap: 8px;
   background: var(--accent);
-  color: #fff;
+  color: #000;
   font-size: 14px;
   font-weight: 600;
   padding: 13px 24px;
@@ -331,7 +331,7 @@ section {
   inset: 0;
   background: radial-gradient(
     380px circle at var(--mx, -200px) var(--my, -200px),
-    rgba(99, 102, 241, 0.13),
+    rgba(250, 239, 112, 0.1),
     transparent 55%
   );
   opacity: 0;
