@@ -150,7 +150,7 @@ export default function App() {
             </p>
           </div>
           <div className="quote-box">
-            <strong>Was ich mitbringe, das ihr braucht:</strong> Ich denke produktgetrieben, kommuniziere technische Konzepte klar — für technische Teams genauso wie für Kunden am Anfang ihrer KI-Reise. Das ist keine Selbstbeschreibung — das ist der Grund, warum ich diese Website mit Claude Code gebaut habe, statt eine Word-Vorlage auszufüllen.
+            <strong>Warum keine normale Bewerbung:</strong> Eine klassische Bewerbung hätte gezeigt, dass ich Word beherrsche. Diese Website zeigt, wie ich tatsächlich arbeite — mit KI-Tools, eigenem Urteil und dem Anspruch, Dinge so zu bauen wie sie sein sollten, nicht wie sie immer gemacht wurden.
           </div>
         </div>
       </section>
