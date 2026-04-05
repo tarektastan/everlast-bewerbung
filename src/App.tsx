@@ -94,7 +94,7 @@ export default function App() {
       {/* Nav */}
       <nav className={`nav${navScrolled ? ' scrolled' : ''}`}>
         <div className="container nav-inner">
-          <div className="nav-logo">Tarek<span>.</span></div>
+          <div className="nav-logo">Tarek Tastan<span>.</span></div>
           <a href="#kontakt" className="nav-cta">Kontakt aufnehmen</a>
         </div>
       </nav>
